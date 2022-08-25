@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 100px;
+    align-items: center;
+
+
+}
+nav h1{ 
+    background-color: #54B192;
+    color: #353449;
+    padding:10px ; 
+    border-radius: 30px;
+    font-size: ;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+
+}
+nav ul li{
+    padding: 0 30px;
+    list-style: none;
+    color: rgb(59, 59, 77);
+    font-size: 25px;
+}
+nav ul li button,
+.anas button{
+    background-color: #353449;
+    color: #fff;
+    padding: 15px 40px;
+    border-radius: 20px;
+    font-size: 17;
+}
+.anas{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
